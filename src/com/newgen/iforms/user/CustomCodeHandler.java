@@ -216,8 +216,9 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
 //                ifr.clearDocList("doclist1");
 //                ApplicationLogger.writeConsoleLog(null, IFormConstants.DESIGNER_LOGGER_NAME, "CustomCodeHandler : ClearDocList() called");
 
-                ifr.setStyle("frame1", "loadSection", "Y");
-                com.newgen.json.JSONArray res = (com.newgen.json.JSONArray)ifr.getTableCellValue("table1",0,"listbox1");
+                // ifr.setStyle("frame1", "loadSection", "Y");
+                // com.newgen.json.JSONArray res = (com.newgen.json.JSONArray)ifr.getTableCellValue("table1",0,"listbox1");
+                String res = (String)ifr.getTableCellValue("table1",0,"listbox1");
                 System.out.println("getTableCellValue - " + res);
                 
                 String prevVal = (String)ifr.getValue("radio1");
