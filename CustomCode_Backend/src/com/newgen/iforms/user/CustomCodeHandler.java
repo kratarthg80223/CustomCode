@@ -218,14 +218,14 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
 
                 // ifr.setStyle("frame1", "loadSection", "Y");
                 // com.newgen.json.JSONArray res = (com.newgen.json.JSONArray)ifr.getTableCellValue("table1",0,"listbox1");
-                String res = (String)ifr.getTableCellValue("table1",0,"listbox1");
-                System.out.println("getTableCellValue - " + res);
+                // String res = (String)ifr.getTableCellValue("table1",0,"listbox1");
+                // System.out.println("getTableCellValue - " + res);
                 
-                String prevVal = (String)ifr.getValue("radio1");
-                System.out.println("getValue radio1 prevVal - " + prevVal);
-                ifr.setValue("radio1", "true");
-                String NewVal = (String)ifr.getValue("radio1");
-                System.out.println("getValue radio1 NewVal - " + NewVal);
+                String prevVal = (String)ifr.getValue("textbox3");
+                System.out.println("getValue textbox3 prevVal - " + prevVal);
+                ifr.setValue("textbox6", prevVal);
+                // String NewVal = (String)ifr.getValue("radio1");
+                // System.out.println("getValue radio1 NewVal - " + NewVal);
                 
             } catch (Exception e) {
                 ApplicationLogger.writeConsoleLog(null, IFormConstants.DESIGNER_LOGGER_NAME, "Exception in CustomCodeHandler : " + e.getMessage());
