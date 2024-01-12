@@ -20,7 +20,7 @@ function clickLabelLink(labelid)
 }
 
 function handleFocus(){
-	functions.setStyle("textbox8", "BackColor", "#33FF36")
+	functions.setStyle("textbox8", "BackColor", "#E0F10D")
 }
 
 function onChangeSectionState(frameId, state)
