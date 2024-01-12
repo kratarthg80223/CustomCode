@@ -19,6 +19,10 @@ function clickLabelLink(labelid)
     //console.log("labelid",labelid);
 }
 
+function handleFocus(){
+	functions.setStyle("textbox8", "BorderColor", "#33FF36")
+}
+
 function onChangeSectionState(frameId, state)
 {
     //console.log(frameId,state);
