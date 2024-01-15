@@ -23,6 +23,10 @@ function handleFocus(){
 	functions.setStyle("textbox8", "BackColor", "#E0F10D")
 }
 
+function onClickEvent(){
+	functions.executeServerEvent("", "", "", true)
+}
+
 function onChangeSectionState(frameId, state)
 {
     //console.log(frameId,state);
