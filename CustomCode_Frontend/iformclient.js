@@ -10,6 +10,8 @@ function getExternalFonts(){
     return filePaths;
 }
 
+console.log("why")
+
 function onRowClick(listviewId,rowIndex){
     return true
 }
