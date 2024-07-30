@@ -221,9 +221,9 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
                 // String res = (String)ifr.getTableCellValue("table1",0,"listbox1");
                 // System.out.println("getTableCellValue - " + res);
                 
-                String prevVal = (String)ifr.getValue("textbox3");
-                System.out.println("getValue textbox3 prevVal - " + prevVal);
-                ifr.setValue("textbox6", prevVal);
+                // String prevVal = (String)ifr.getValue("textbox3");
+                // System.out.println("getValue textbox3 prevVal - " + prevVal);
+                ifr.setValue("textbox10", "lashkari");
                 // String NewVal = (String)ifr.getValue("radio1");
                 // System.out.println("getValue radio1 NewVal - " + NewVal);
                 
