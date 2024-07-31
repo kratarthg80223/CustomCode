@@ -14,10 +14,7 @@ function onRowClick(listviewId,rowIndex){
     return true
 }
 
-function clickLabelLink(labelid)
-{
-    //console.log("labelid",labelid);
-}
+function clickLabelLink() {console.log("magic")}
 
 function handleFocus(){
 	functions.setStyle("textbox8", "BackColor", "#E0F10D")
