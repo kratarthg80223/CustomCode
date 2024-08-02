@@ -66,7 +66,7 @@ function customValidation(type) {
 }
 
 function formLoad(){
-    //console.log("formLoad hook..");
+    console.log("why worry")
 }
 
 function handleCustomKeyEvent(ev){
