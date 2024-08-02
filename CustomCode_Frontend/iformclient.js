@@ -69,6 +69,10 @@ function formLoad(name, parth){
     console.log("why worry again");
 }
 
+function formLoad2(){
+    console.log("nai duga")
+}
+
 function handleCustomKeyEvent(ev){
     //console.log("handleCustomKeyEvent",ev);
 }
