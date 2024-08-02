@@ -65,8 +65,8 @@ function customValidation(type) {
     return true;
 }
 
-function formLoad(name, parth){
-    console.log("why worry again");
+function formLoad(name, parth, mohit, nitin){
+    console.log("why worry again !!!!!!!");
 }
 
 function formLoad2(){
