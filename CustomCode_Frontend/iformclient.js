@@ -65,8 +65,8 @@ function customValidation(type) {
     return true;
 }
 
-function formLoad(){
-    console.log("why worry")
+function formLoad(name, parth){
+    console.log("why worry again");
 }
 
 function handleCustomKeyEvent(ev){
