@@ -109,6 +109,10 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
                 ApplicationLogger.writeConsoleLog(null, IFormConstants.DESIGNER_LOGGER_NAME, "Exception in CustomCodeHandler : " + e.getMessage());
             }
                return "";
+} catch (Exception e) {
+                ApplicationLogger.writeConsoleLog(null, IFormConstants.DESIGNER_LOGGER_NAME, "Exception in CustomCodeHandler : " + e.getMessage());
+            }
+               return "";
     }
     
    
