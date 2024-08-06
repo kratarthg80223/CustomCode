@@ -310,5 +310,5 @@ Please append me
 Please append me again
 
 function xyz(){
-    console.log("good")
+    console.log("good way")
 }
