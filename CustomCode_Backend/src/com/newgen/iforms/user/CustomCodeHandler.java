@@ -22,10 +22,7 @@ import org.json.simple.JSONObject;
 public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEventHandler
 {    
     @Override
-    public void beforeFormLoad(final FormDef arg0, final IFormReference arg1) {
-        // Code here will get executed on opening of form and application
-        
-    }
+    public void beforeFormLoad(final FormDef arg0, final IFormReference arg1) { if(ctrlId.equals(button1)){ executeServerEvent_button1(); } }
     
     @Override
     public String executeCustomService(final FormDef arg0, final IFormReference arg1, final String arg2, final String arg3, final String arg4) {
@@ -109,7 +106,9 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
                 ApplicationLogger.writeConsoleLog(null, IFormConstants.DESIGNER_LOGGER_NAME, "Exception in CustomCodeHandler : " + e.getMessage());
             }
                return "";
-} 
+}
+
+public void executeServerEvent_button1() {ifr.setValue("textbox133", "noice"); } 
     
    
     @Override
