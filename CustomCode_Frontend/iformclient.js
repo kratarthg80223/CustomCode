@@ -307,6 +307,6 @@ function onEventRecievedFromMobile(recievedDataString) {
 }
 
 function xyz(){
-    console.log("new comment !!!!!");
-    alert("abc");
+    alert("abcd");
+    functions.setStyle("table1", "visible", "false");
 }
