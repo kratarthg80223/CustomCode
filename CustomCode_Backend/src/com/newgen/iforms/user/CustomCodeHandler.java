@@ -108,7 +108,7 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
                return "";
 }
 
-public void executeServerEvent_button1() {ifr.setValue("textbox133", "noice"); } 
+public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) {ifr.setValue("textbox36", "plz");} 
     
    
     @Override
