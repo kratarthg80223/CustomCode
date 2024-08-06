@@ -305,7 +305,3 @@ function onEventRecievedFromMobile(recievedDataString) {
     var dataFromMobileEnd = dataObj["Data"];
     //The above data will be used for funther operations to be performed by form accordingly
 }
-
-function xyz(){
-    console.log("new comment !!!!!")
-}
