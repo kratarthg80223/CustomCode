@@ -107,10 +107,7 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
             }
                return "";
 }
-
-public void executeServerEvent_button1() {ifr.setValue("textbox133", "noice"); } 
     
-   
     @Override
     public void postHookOnDocumentOperations(IFormReference objReference, String controlId, String docType, int docImageIndex, String operationType) {
 //        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
