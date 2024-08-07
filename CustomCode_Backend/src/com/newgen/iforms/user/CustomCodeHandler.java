@@ -109,6 +109,8 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
             }
                return "";
 }
+
+public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3) {ifr.setValue("textbox34", "new container");}
     
    
     @Override
