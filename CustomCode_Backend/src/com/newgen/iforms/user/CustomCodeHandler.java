@@ -22,7 +22,7 @@ import org.json.simple.JSONObject;
 public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEventHandler
 {    
     @Override
-    public void beforeFormLoad(final FormDef arg0, final IFormReference arg1) { if(ctrlId.equals(button1)){ executeServerEvent_button1(); } }
+    public void beforeFormLoad(final FormDef arg0, final IFormReference arg1) { return null; }
     
     @Override
     public String executeCustomService(final FormDef arg0, final IFormReference arg1, final String arg2, final String arg3, final String arg4) {
@@ -99,7 +99,7 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
     }
     
     @Override
-    public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) { if(ctrlId.equals(id)){ executeServerEvent_button1(); } {
+    public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) {
             try {
                 ifr.setValue("textbox10", "great!! way");                
             } catch (Exception e) {
@@ -107,20 +107,6 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
             }
                return "";
 }
-
-public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3) {public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3){
-sdfsd
-sdf
-sdf
-dsf
-sdf
-sdf
-sdf
-ssfgsdg
-fdg
-fdgfd
-g
-}}
     
    
     @Override
