@@ -111,17 +111,20 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
                return "";
 }
 
-public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3){
-safer
-sdf
-wer
-sdg
-ewrr
-sdg
-wer
-gsd
-g
-}
+public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3) {public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3){
+    
+    safer
+    sdf
+    wer
+    sdg
+    ewrr
+    sdg
+    wer
+    gsd
+    g
+    wow
+    
+}}
    
     @Override
     public void postHookOnDocumentOperations(IFormReference objReference, String controlId, String docType, int docImageIndex, String operationType) {
