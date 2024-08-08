@@ -99,7 +99,7 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
     }
     
     @Override
-    public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) {
+    public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) { if(ctrlId.equals(id)){ executeServerEvent_button1(); } {
             try {
                 ifr.setValue("textbox10", "great!! way");                
             } catch (Exception e) {
@@ -107,6 +107,17 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
             }
                return "";
 }
+
+public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3) {public String executeServerEvent_button1(IFormReference ifr, String string, String string1, String string2, String string3){
+dsdf
+sdf
+dg
+dfg
+dfg
+fdg
+dfg
+dg
+}}
     
    
     @Override
