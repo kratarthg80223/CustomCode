@@ -312,4 +312,5 @@ function xyz(){
 }
 function abc(){
     functions.addDataToGrid("controlId", "rowData");
+    console.log("new data added")
 }
