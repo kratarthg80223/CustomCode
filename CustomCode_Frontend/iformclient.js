@@ -310,3 +310,8 @@ function xyz(){
     alert("abcd");
     functions.setStyle("table1", "visible", "false");
 }
+
+function fetchRecords(){
+    
+    functions.setStyle("textbox1", "visible", "false");
+}
