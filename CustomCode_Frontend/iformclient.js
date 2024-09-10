@@ -332,3 +332,8 @@ function xyz(){
     functions.setStyle("table1", "visible", "false");
     functions.addDataToGrid("controlId", "rowData");
 }
+function xyz(){
+    alert("abcd");
+    alert("new addition");
+    functions.changeSectionCaption("frameId", "Caption");
+}
