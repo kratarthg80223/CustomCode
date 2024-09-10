@@ -310,7 +310,7 @@ function xyz(){
     alert("abcd");
     alert("new addition")
     functions.setStyle("table1", "visible", "false");
-    functions.addDataToGrid("controlId", "rowData")
+    functions.addDataToGrid("controlId", "rowData");
 }
 
 function fetchRecords(){
