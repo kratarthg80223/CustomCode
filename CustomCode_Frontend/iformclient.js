@@ -311,6 +311,7 @@ function xyz(){
     alert("new addition")
     functions.setStyle("table1", "visible", "false");
     functions.addDataToGrid("controlId", "rowData");
+    functions.changeSectionCaption("frameId", "Caption");
 }
 
 function fetchRecords(){
