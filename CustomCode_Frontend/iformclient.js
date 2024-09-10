@@ -308,7 +308,8 @@ function onEventRecievedFromMobile(recievedDataString) {
 
 function xyz(){
     alert("abcd");
-    alert("new addition")
+    alert("new addition");
+    functions.changeSectionCaption("frameId", "Caption");
 }
 
 function fetchRecords(){
