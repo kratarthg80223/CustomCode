@@ -309,6 +309,7 @@ function onEventRecievedFromMobile(recievedDataString) {
 function xyz(){
     alert("abcd");
     alert("new addition");
+    functions.selectSheetByName("tabId", "sheetName");
 }
 
 function fetchRecords(){
