@@ -309,7 +309,6 @@ function onEventRecievedFromMobile(recievedDataString) {
 function xyz(){
     alert("abcd");
     alert("new addition")
-    functions.setStyle("table1", "visible", "false");
 }
 
 function fetchRecords(){
