@@ -310,6 +310,7 @@ function xyz(){
     alert("abcd");
     alert("new addition");
     functions.changeSectionCaption("frameId", "Caption");
+    alert("hello");
 }
 
 function fetchRecords(){
