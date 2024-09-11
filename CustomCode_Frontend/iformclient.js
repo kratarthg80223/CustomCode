@@ -337,3 +337,8 @@ function xyz(){
     alert("new addition");
     functions.changeSectionCaption("frameId", "Caption");
 }
+function xyz(){
+    alert("abcd");
+    alert("new addition");
+    functions.selectSheetByName("tabId", "sheetName");
+}
