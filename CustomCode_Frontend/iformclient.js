@@ -350,3 +350,7 @@ function xyz(){
     alert("abcd");
     alert("new addition");
 }
+function xyz(){
+    alert("abcd");
+    alert("new addition");
+}
