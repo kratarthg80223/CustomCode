@@ -119,7 +119,10 @@ alert("Version 2")
 }
 
 public String executeServerEvent_button4(IFormReference ifr, String string, String string1, String string2, String string3){
+
     new test;
+    alert("Version 1")
+
 }
 
 
