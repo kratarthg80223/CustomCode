@@ -313,6 +313,7 @@ function xyz(){
     alert("hello");
     alert("Version 2");
     functions.changeSectionCaption("frameId", "Version3");
+    alert("Version 4")
 }
 
 function fetchRecords(){
