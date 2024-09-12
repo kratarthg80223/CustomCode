@@ -311,6 +311,7 @@ function xyz(){
     alert("new addition");
     functions.changeSectionCaption("frameId", "Caption");
     alert("hello");
+    alert("Version 2");
 }
 
 function fetchRecords(){
