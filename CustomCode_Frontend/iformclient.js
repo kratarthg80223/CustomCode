@@ -321,31 +321,3 @@ function fetchRecords(){
     
     functions.setStyle("textbox1", "visible", "false");
 }
-
-function clientEvent_2cb63967-21ca-4fd3-9b29-6222bf0db834() {
-    alert("button1");
-}
-function clientEvent_fe3cefb6-bd47-48dc-bf95-679c86227057() {
-    alert("new test");
-}
-function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
-    alert("new button test now");
-}
-function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
-    alert("new button test now");
-}
-function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
-    alert("new button test now 2");
-}
-function clientEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8() {
-    alert("new const");
-}
-function clientEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8() {
-    alert("new const");
-}
-function clientEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8() {
-    alert("new const");
-}
-function clientEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8() {
-    alert("new const 2");
-}
