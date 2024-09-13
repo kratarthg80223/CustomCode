@@ -321,3 +321,7 @@ function fetchRecords(){
     
     functions.setStyle("textbox1", "visible", "false");
 }
+
+function clientEvent_2cb63967-21ca-4fd3-9b29-6222bf0db834() {
+    alert("button1");
+}
