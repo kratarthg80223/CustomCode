@@ -100,6 +100,9 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
     
     @Override
     public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) {
+   if(ctrlId.equals(button15)){
+   executeServerEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8();
+   } 
    if(ctrlId.equals(button3)){
    executeServerEvent_button3();
    } 
@@ -113,6 +116,10 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
         }
            return "";
     }
+
+public String executeServerEvent_0c2134ff-a079-4bc1-9f05-f04957bbb1b8(IFormReference ifr, String string, String string1, String string2, String string3){
+    System.out.println("hello");
+}
 
 public String executeServerEvent_button3(IFormReference ifr, String string, String string1, String string2, String string3){
 alert("Version 2")
