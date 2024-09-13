@@ -321,8 +321,3 @@ function fetchRecords(){
     
     functions.setStyle("textbox1", "visible", "false");
 }
-function xyz(){
-    alert("abcd");
-    alert("new addition")
-    functions.setStyle("table1", "visible", "false");
-}
