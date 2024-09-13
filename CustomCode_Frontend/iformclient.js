@@ -334,3 +334,6 @@ function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
 function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
     alert("new button test now");
 }
+function clientEvent_0f632e14-e349-4275-bd55-fe76bffb504d() {
+    alert("new button test now 2");
+}
