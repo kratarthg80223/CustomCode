@@ -325,3 +325,6 @@ function fetchRecords(){
 function clientEvent_2cb63967-21ca-4fd3-9b29-6222bf0db834() {
     alert("button1");
 }
+function clientEvent_fe3cefb6-bd47-48dc-bf95-679c86227057() {
+    alert("new test");
+}
