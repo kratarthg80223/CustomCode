@@ -325,3 +325,13 @@ function fetchRecords(){
 function clientEvent_bb91ddf5-4777-47d5-a9dd-1b4cf923452d() {
     alert("new button");
 }
+function xyz(){
+    alert("abcd");
+    alert("new addition");
+    functions.changeSectionCaption("frameId", "Caption");
+    alert("hello");
+    alert("Version 2");
+    functions.changeSectionCaption("frameId", "Version3");
+    alert("Version 4")
+    alert("Alright")
+}
