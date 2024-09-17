@@ -336,5 +336,5 @@ function xyz(){
     alert("Alright")
 }
 function clientEvent_1a36ccd4-a77f-4d63-9a8a-6c520484e9b0() {
-    alert("done for now");
+    alert("new function");
 }
