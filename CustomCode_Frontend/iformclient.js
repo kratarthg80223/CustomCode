@@ -372,3 +372,7 @@ function avinashchutiya() {
 function sinko() {
     alert("asdf")
 }
+function pinko() {
+    alert("asdf")
+    alert("kirmada")
+}
