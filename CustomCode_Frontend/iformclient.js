@@ -366,3 +366,6 @@ function aditya() {
 function newbutton() {
     alert("jahfjaf")
 }
+function avinashchutiya() {
+    alert("jai ho")
+}
