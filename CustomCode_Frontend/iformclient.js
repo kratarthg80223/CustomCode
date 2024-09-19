@@ -363,3 +363,6 @@ function clie() {
 function aditya() {
     alert("new")
 }
+function newbutton() {
+    alert("hellpo");
+}
