@@ -360,6 +360,6 @@ function abcd() {
 function clie() {
 
 }
-function clie() {
-
+function aditya() {
+    alert("new")
 }
