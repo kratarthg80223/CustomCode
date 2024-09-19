@@ -345,3 +345,6 @@ function devkh() {
 function devkh() {
     alert("new button")
 }
+function abcd() {
+    alert("No homo")
+}
