@@ -357,3 +357,6 @@ function abcd() {
 function abcd() {
     alert("No homo")
 }
+function clie() {
+
+}
