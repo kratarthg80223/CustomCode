@@ -339,3 +339,6 @@ function clientEvent_1a36ccd4-a77f-4d63-9a8a-6c520484e9b0() {
     alert("new function");
     alert("new function 2");
 }
+function devkh() {
+    alert("new button")
+}
