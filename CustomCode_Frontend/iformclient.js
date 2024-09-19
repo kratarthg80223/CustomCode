@@ -369,3 +369,6 @@ function newbutton() {
 function avinashchutiya() {
     alert("jai ho")
 }
+function sinko() {
+    alert("asdf")
+}
