@@ -376,3 +376,6 @@ function pinko() {
     alert("asdf")
     alert("kirmada")
 }
+function clientEvent_b6bd31fcb0e8dec03f4c1832e682d() {
+JFXJXJGXJXJG
+}
