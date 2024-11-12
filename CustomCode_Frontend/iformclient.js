@@ -391,3 +391,6 @@ function aditya() {
 function aditya() {
     alert("new");
 }
+function aditya() {
+    alert("new");
+}
