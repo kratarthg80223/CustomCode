@@ -404,3 +404,6 @@ function dev() {
 alert("new")
 alert("new2")
 }
+function test() {
+    alert()
+}
