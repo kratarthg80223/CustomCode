@@ -407,3 +407,6 @@ alert("new2")
 function test() {
     alert()
 }
+function test2() {
+    alert()
+}
