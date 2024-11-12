@@ -361,7 +361,7 @@ function clie() {
 
 }
 function aditya() {
-    alert("new")
+    alert("new");
 }
 function newbutton() {
     alert("jahfjaf")
