@@ -382,3 +382,6 @@ function clientEvent_b6bd31fcb0e8dec03f4c1832e682d() {
 function aditya1() {
     alert("new");
 }
+function aditya1() {
+    alert("new");
+}
