@@ -411,5 +411,5 @@ function test2() {
     alert()
 }
 function dev1(){
-    alert()
+    alert("new");
 }
