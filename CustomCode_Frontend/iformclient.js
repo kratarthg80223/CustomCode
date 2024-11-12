@@ -388,3 +388,6 @@ function aditya1() {
 function aditya() {
     alert("new");
 }
+function aditya() {
+    alert("new");
+}
