@@ -424,3 +424,6 @@ function test12344() {
 function Test123() {
 afafa
 }
+function dev2() {
+    alert("new2")
+}
