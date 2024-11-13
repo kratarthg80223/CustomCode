@@ -413,3 +413,6 @@ function test2() {
 function dev1(){
     alert("new");
 }
+function AvinashKumarSingh() {
+    alert("new");
+}
