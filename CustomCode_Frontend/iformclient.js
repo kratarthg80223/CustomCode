@@ -408,7 +408,7 @@ function test() {
     alert()
 }
 function test2() {
-    alert()
+afafafaafafafaf
 }
 function dev1(){
     alert("new");
@@ -418,7 +418,4 @@ function AvinashKumarSingh() {
 }
 function test1() {
 afafafa
-}
-function karan() {
-afafa123
 }
