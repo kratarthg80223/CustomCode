@@ -407,7 +407,7 @@ function test() {
     alert()
 }
 function test2() {
-afafafaafafafaf
+
 }
 function dev1(){
     alert("new");
