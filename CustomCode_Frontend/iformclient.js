@@ -427,3 +427,6 @@ afafa
 function dev2() {
     alert("new2")
 }
+function dev3() {
+    alert("new3")
+}
