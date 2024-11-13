@@ -419,3 +419,6 @@ function AvinashKumarSingh() {
 function test1() {
 afafafa
 }
+function karan() {
+afafa
+}
