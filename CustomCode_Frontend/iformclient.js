@@ -416,3 +416,6 @@ function dev1(){
 function AvinashKumarSingh() {
     alert("new");
 }
+function test1() {
+afafafa
+}
