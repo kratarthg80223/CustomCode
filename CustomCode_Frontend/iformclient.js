@@ -407,7 +407,7 @@ function test() {
     alert()
 }
 function test2() {
-   alert();
+    alert("new");
 }
 function dev1(){
     alert("new");
