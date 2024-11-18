@@ -460,3 +460,6 @@ function hello1234() {
 function hello12345() {
     alert("afaf.applicationname1");
 }
+function hellonew() {
+
+}
