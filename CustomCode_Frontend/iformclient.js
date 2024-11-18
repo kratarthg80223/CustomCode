@@ -451,3 +451,6 @@ function clientEvent_f2abef645ecb142e004a46a80af1110() {
 function clientEvent_f2abef645ecb142e004a46a80af1110() {
     alert("afaf.applicationname");
 }
+function hello123() {
+    alert("afaf.applicationname1");
+}
