@@ -457,3 +457,6 @@ function hello123() {
 function hello1234() {
     alert("afaf.applicationname1");
 }
+function hello12345() {
+    alert("afaf.applicationname1");
+}
