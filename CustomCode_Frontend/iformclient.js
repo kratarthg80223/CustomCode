@@ -496,3 +496,6 @@ function hellohello() {
 function wowhello() {
 
 }
+function wowhelloNice() {
+
+}
