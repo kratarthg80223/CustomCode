@@ -430,3 +430,6 @@ function dev2() {
 function dev3() {
     alert("new3")
 }
+function clientEvent_6fbf5d21cad4124ffeb31e12d0260c6() {
+
+}
