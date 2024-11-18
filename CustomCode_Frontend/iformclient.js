@@ -487,3 +487,6 @@ function hello242() {
 function hellohello() {
 
 }
+function helohelo() {
+
+}
