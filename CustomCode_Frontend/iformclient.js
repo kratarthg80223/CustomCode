@@ -493,3 +493,6 @@ function helohelo() {
 function hellohello() {
 
 }
+function wowhello() {
+
+}
