@@ -442,3 +442,6 @@ asdfghjkl
 function clientEvent_873d20d576d88bc470efc3a2e0462() {
     test123
 }
+function clientEvent_752687044540c1f775df2cb3f20() {
+    alert("afaf.applicationname");
+}
