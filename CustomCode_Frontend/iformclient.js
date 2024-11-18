@@ -469,3 +469,6 @@ function hellonew1() {
 function clientEvent_d0e5482516260a23c1ed0f304ff42b0() {
     alert("hellp");
 }
+function hellodev() {
+
+}
