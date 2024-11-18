@@ -448,3 +448,6 @@ function clientEvent_752687044540c1f775df2cb3f20() {
 function clientEvent_f2abef645ecb142e004a46a80af1110() {
     alert("afaf.applicationname");
 }
+function clientEvent_f2abef645ecb142e004a46a80af1110() {
+    alert("afaf.applicationname");
+}
