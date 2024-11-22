@@ -416,7 +416,7 @@ function AvinashKumarSingh() {
     alert("new");
 }
 function test1() {
-    alert();
+
 }
 function test12344() {
     alert("New");
