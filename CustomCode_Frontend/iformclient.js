@@ -508,3 +508,6 @@ function test() {
 function hello() {
 
 }
+function hello1() {
+
+}
