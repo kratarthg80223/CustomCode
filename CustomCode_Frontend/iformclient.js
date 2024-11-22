@@ -511,3 +511,6 @@ function hello() {
 function hello1() {
 
 }
+function hello12() {
+
+}
