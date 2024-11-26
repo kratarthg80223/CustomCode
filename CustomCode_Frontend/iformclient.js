@@ -516,6 +516,6 @@ function hello12() {
 }
 function hello2() {
 }
-function evernNewer() {
+function evernNewer(2) {
     alert("Newer")
 }
