@@ -514,3 +514,5 @@ function hello1() {
 function hello12() {
 
 }
+function hello2() {
+}
