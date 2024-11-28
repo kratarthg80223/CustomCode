@@ -521,3 +521,5 @@ function evernNewer(2) {
 }
 function test12() {
 }
+function test123() {
+}
