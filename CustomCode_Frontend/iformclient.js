@@ -519,3 +519,5 @@ function hello2() {
 function evernNewer(2) {
     alert("Newer")
 }
+function test12() {
+}
