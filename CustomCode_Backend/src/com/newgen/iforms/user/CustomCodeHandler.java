@@ -101,6 +101,9 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
     @Override
     public String executeServerEvent(IFormReference ifr, String string, String string1, String string2, String string3) {
    if(ctrlId.equals(button7)){
+   newer123();
+   } 
+   if(ctrlId.equals(button7)){
    newer12();
    } 
    if(ctrlId.equals(button7)){
@@ -143,6 +146,10 @@ public class CustomCodeHandler extends IFormCustomHooks implements IFormServerEv
         }
            return "";
     }
+
+public String newer123(IFormReference ifr, String string, String string1, String string2, String string3){
+ 
+}
 
 public String newer12(IFormReference ifr, String string, String string1, String string2, String string3){
  
