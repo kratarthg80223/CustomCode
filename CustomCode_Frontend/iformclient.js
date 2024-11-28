@@ -523,3 +523,5 @@ function test12() {
 }
 function test123() {
 }
+function test1234() {
+}
